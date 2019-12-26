@@ -1,6 +1,6 @@
 # Magento Developments
 
-Repository for All Magento Extension & Theme development + Helpful Code Snippets and Instructions. Includes development for both Magento 1 & Magento 2 Themes and Extenstions.
+Repository for All Magento Extension & Theme development + Helpful Code Snippets and Instructions. Includes development for both Magento 1 & Magento 2 Themes and Extensions.
 
 Please read the README.md within each of the child repositories for the specifics on development information, development notes, details related accessed Repositories.
 
