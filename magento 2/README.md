@@ -1,4 +1,4 @@
-# Magento Developments
+# Magento 2 Developments
 
 Repository for All Magento Extension & Theme development + Helpful Code Snippets and Instructions for Magento 2.
 
